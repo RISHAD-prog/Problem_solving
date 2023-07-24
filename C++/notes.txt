@@ -1,0 +1,26 @@
+import java.util.*;
+import java.util.Scanner;
+
+public class sum_array {
+    static int sum() {
+        int input;
+        int[] arr = new int[10000];
+        int sum = 0;
+        Scanner sc = new Scanner(System.in);
+        input = sc.nextInt();
+
+        for (int i = 0; i < input; i++) {
+            arr[i] = sc.nextInt();
+        }
+        for (int i = 0; i < arr.length; i++) {
+            sum = sum + arr[i];
+        }
+        return sum;
+    }
+
+    public static void main(String args[]) {
+
+        System.out.println(sum());
+
+    }
+}
