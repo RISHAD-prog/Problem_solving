@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Parity_Sort/1.0.0": {
+        "runtime": {
+          "Parity_Sort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parity_Sort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

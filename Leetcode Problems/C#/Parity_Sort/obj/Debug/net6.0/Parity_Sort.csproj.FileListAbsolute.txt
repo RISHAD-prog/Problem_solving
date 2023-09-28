@@ -1,0 +1,14 @@
+D:\Programming practice\Leetcode Problems\C#\Parity_Sort\bin\Debug\net6.0\Parity_Sort.exe
+D:\Programming practice\Leetcode Problems\C#\Parity_Sort\bin\Debug\net6.0\Parity_Sort.deps.json
+D:\Programming practice\Leetcode Problems\C#\Parity_Sort\bin\Debug\net6.0\Parity_Sort.runtimeconfig.json
+D:\Programming practice\Leetcode Problems\C#\Parity_Sort\bin\Debug\net6.0\Parity_Sort.dll
+D:\Programming practice\Leetcode Problems\C#\Parity_Sort\bin\Debug\net6.0\Parity_Sort.pdb
+D:\Programming practice\Leetcode Problems\C#\Parity_Sort\obj\Debug\net6.0\Parity_Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming practice\Leetcode Problems\C#\Parity_Sort\obj\Debug\net6.0\Parity_Sort.AssemblyInfoInputs.cache
+D:\Programming practice\Leetcode Problems\C#\Parity_Sort\obj\Debug\net6.0\Parity_Sort.AssemblyInfo.cs
+D:\Programming practice\Leetcode Problems\C#\Parity_Sort\obj\Debug\net6.0\Parity_Sort.csproj.CoreCompileInputs.cache
+D:\Programming practice\Leetcode Problems\C#\Parity_Sort\obj\Debug\net6.0\Parity_Sort.dll
+D:\Programming practice\Leetcode Problems\C#\Parity_Sort\obj\Debug\net6.0\refint\Parity_Sort.dll
+D:\Programming practice\Leetcode Problems\C#\Parity_Sort\obj\Debug\net6.0\Parity_Sort.pdb
+D:\Programming practice\Leetcode Problems\C#\Parity_Sort\obj\Debug\net6.0\Parity_Sort.genruntimeconfig.cache
+D:\Programming practice\Leetcode Problems\C#\Parity_Sort\obj\Debug\net6.0\ref\Parity_Sort.dll

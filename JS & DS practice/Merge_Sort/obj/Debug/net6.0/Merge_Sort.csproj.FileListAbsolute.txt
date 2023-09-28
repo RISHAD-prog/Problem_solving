@@ -1,0 +1,14 @@
+D:\Programming practice\JS & DS practice\Merge_Sort\bin\Debug\net6.0\Merge_Sort.exe
+D:\Programming practice\JS & DS practice\Merge_Sort\bin\Debug\net6.0\Merge_Sort.deps.json
+D:\Programming practice\JS & DS practice\Merge_Sort\bin\Debug\net6.0\Merge_Sort.runtimeconfig.json
+D:\Programming practice\JS & DS practice\Merge_Sort\bin\Debug\net6.0\Merge_Sort.dll
+D:\Programming practice\JS & DS practice\Merge_Sort\bin\Debug\net6.0\Merge_Sort.pdb
+D:\Programming practice\JS & DS practice\Merge_Sort\obj\Debug\net6.0\Merge_Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming practice\JS & DS practice\Merge_Sort\obj\Debug\net6.0\Merge_Sort.AssemblyInfoInputs.cache
+D:\Programming practice\JS & DS practice\Merge_Sort\obj\Debug\net6.0\Merge_Sort.AssemblyInfo.cs
+D:\Programming practice\JS & DS practice\Merge_Sort\obj\Debug\net6.0\Merge_Sort.csproj.CoreCompileInputs.cache
+D:\Programming practice\JS & DS practice\Merge_Sort\obj\Debug\net6.0\Merge_Sort.dll
+D:\Programming practice\JS & DS practice\Merge_Sort\obj\Debug\net6.0\refint\Merge_Sort.dll
+D:\Programming practice\JS & DS practice\Merge_Sort\obj\Debug\net6.0\Merge_Sort.pdb
+D:\Programming practice\JS & DS practice\Merge_Sort\obj\Debug\net6.0\Merge_Sort.genruntimeconfig.cache
+D:\Programming practice\JS & DS practice\Merge_Sort\obj\Debug\net6.0\ref\Merge_Sort.dll

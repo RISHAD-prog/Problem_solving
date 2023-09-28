@@ -1,0 +1,39 @@
+int arrayLength = Convert.ToInt32(Console.ReadLine());
+        int[,] array = new int[arrayLength,3];
+        for(int i = 0; i < arrayLength; i++)
+{
+            for (int j = 0; j < 3; j++)
+            {
+                Console.Write("Enter value for [{0},{1}]: ", i, j);
+                array[i, j] = Convert.ToInt32(Console.ReadLine());
+                
+                if (j==2)
+                {
+                    int A = 0;
+                    array[i, 0] = A;
+                    int B = 0;
+                    int X=0;
+                    array[i,1]=B;
+                    array[i, 2]=X;
+                    
+                    if (A == B)
+                    {
+                        Console.WriteLine("Yes");
+                    }
+                    else
+                    {
+                        while (A != B)
+                        {
+                            A = A + X;
+                            B = B - X;
+                            if (A == 0 || B == 0)
+                            {
+                                Console.WriteLine("No");
+                            }
+                        }
+                    }
+                }
+                
+                 
+            }
+        }

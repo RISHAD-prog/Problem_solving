@@ -1,0 +1,15 @@
+D:\Programming practice\Data Structures\solve_me\solve_me\bin\Debug\net6.0\solve_me.exe
+D:\Programming practice\Data Structures\solve_me\solve_me\bin\Debug\net6.0\solve_me.deps.json
+D:\Programming practice\Data Structures\solve_me\solve_me\bin\Debug\net6.0\solve_me.runtimeconfig.json
+D:\Programming practice\Data Structures\solve_me\solve_me\bin\Debug\net6.0\solve_me.dll
+D:\Programming practice\Data Structures\solve_me\solve_me\bin\Debug\net6.0\solve_me.pdb
+D:\Programming practice\Data Structures\solve_me\solve_me\obj\Debug\net6.0\solve_me.csproj.AssemblyReference.cache
+D:\Programming practice\Data Structures\solve_me\solve_me\obj\Debug\net6.0\solve_me.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming practice\Data Structures\solve_me\solve_me\obj\Debug\net6.0\solve_me.AssemblyInfoInputs.cache
+D:\Programming practice\Data Structures\solve_me\solve_me\obj\Debug\net6.0\solve_me.AssemblyInfo.cs
+D:\Programming practice\Data Structures\solve_me\solve_me\obj\Debug\net6.0\solve_me.csproj.CoreCompileInputs.cache
+D:\Programming practice\Data Structures\solve_me\solve_me\obj\Debug\net6.0\solve_me.dll
+D:\Programming practice\Data Structures\solve_me\solve_me\obj\Debug\net6.0\refint\solve_me.dll
+D:\Programming practice\Data Structures\solve_me\solve_me\obj\Debug\net6.0\solve_me.pdb
+D:\Programming practice\Data Structures\solve_me\solve_me\obj\Debug\net6.0\solve_me.genruntimeconfig.cache
+D:\Programming practice\Data Structures\solve_me\solve_me\obj\Debug\net6.0\ref\solve_me.dll

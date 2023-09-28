@@ -1,0 +1,15 @@
+D:\Programming practice\Data Structures\Singly_linklist\Singly_linklist\bin\Debug\net6.0\Singly_linklist.exe
+D:\Programming practice\Data Structures\Singly_linklist\Singly_linklist\bin\Debug\net6.0\Singly_linklist.deps.json
+D:\Programming practice\Data Structures\Singly_linklist\Singly_linklist\bin\Debug\net6.0\Singly_linklist.runtimeconfig.json
+D:\Programming practice\Data Structures\Singly_linklist\Singly_linklist\bin\Debug\net6.0\Singly_linklist.dll
+D:\Programming practice\Data Structures\Singly_linklist\Singly_linklist\bin\Debug\net6.0\Singly_linklist.pdb
+D:\Programming practice\Data Structures\Singly_linklist\Singly_linklist\obj\Debug\net6.0\Singly_linklist.csproj.AssemblyReference.cache
+D:\Programming practice\Data Structures\Singly_linklist\Singly_linklist\obj\Debug\net6.0\Singly_linklist.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming practice\Data Structures\Singly_linklist\Singly_linklist\obj\Debug\net6.0\Singly_linklist.AssemblyInfoInputs.cache
+D:\Programming practice\Data Structures\Singly_linklist\Singly_linklist\obj\Debug\net6.0\Singly_linklist.AssemblyInfo.cs
+D:\Programming practice\Data Structures\Singly_linklist\Singly_linklist\obj\Debug\net6.0\Singly_linklist.csproj.CoreCompileInputs.cache
+D:\Programming practice\Data Structures\Singly_linklist\Singly_linklist\obj\Debug\net6.0\Singly_linklist.dll
+D:\Programming practice\Data Structures\Singly_linklist\Singly_linklist\obj\Debug\net6.0\refint\Singly_linklist.dll
+D:\Programming practice\Data Structures\Singly_linklist\Singly_linklist\obj\Debug\net6.0\Singly_linklist.pdb
+D:\Programming practice\Data Structures\Singly_linklist\Singly_linklist\obj\Debug\net6.0\Singly_linklist.genruntimeconfig.cache
+D:\Programming practice\Data Structures\Singly_linklist\Singly_linklist\obj\Debug\net6.0\ref\Singly_linklist.dll

@@ -1,0 +1,14 @@
+D:\Programming practice\Leetcode Problems\C#\Duplicates\bin\Debug\net6.0\Duplicates.exe
+D:\Programming practice\Leetcode Problems\C#\Duplicates\bin\Debug\net6.0\Duplicates.deps.json
+D:\Programming practice\Leetcode Problems\C#\Duplicates\bin\Debug\net6.0\Duplicates.runtimeconfig.json
+D:\Programming practice\Leetcode Problems\C#\Duplicates\bin\Debug\net6.0\Duplicates.dll
+D:\Programming practice\Leetcode Problems\C#\Duplicates\bin\Debug\net6.0\Duplicates.pdb
+D:\Programming practice\Leetcode Problems\C#\Duplicates\obj\Debug\net6.0\Duplicates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming practice\Leetcode Problems\C#\Duplicates\obj\Debug\net6.0\Duplicates.AssemblyInfoInputs.cache
+D:\Programming practice\Leetcode Problems\C#\Duplicates\obj\Debug\net6.0\Duplicates.AssemblyInfo.cs
+D:\Programming practice\Leetcode Problems\C#\Duplicates\obj\Debug\net6.0\Duplicates.csproj.CoreCompileInputs.cache
+D:\Programming practice\Leetcode Problems\C#\Duplicates\obj\Debug\net6.0\Duplicates.dll
+D:\Programming practice\Leetcode Problems\C#\Duplicates\obj\Debug\net6.0\refint\Duplicates.dll
+D:\Programming practice\Leetcode Problems\C#\Duplicates\obj\Debug\net6.0\Duplicates.pdb
+D:\Programming practice\Leetcode Problems\C#\Duplicates\obj\Debug\net6.0\Duplicates.genruntimeconfig.cache
+D:\Programming practice\Leetcode Problems\C#\Duplicates\obj\Debug\net6.0\ref\Duplicates.dll
