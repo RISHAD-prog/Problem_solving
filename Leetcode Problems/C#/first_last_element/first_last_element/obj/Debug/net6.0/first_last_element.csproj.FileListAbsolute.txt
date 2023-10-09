@@ -1,0 +1,14 @@
+C:\Users\ihrishad\leet\first_last_element\first_last_element\bin\Debug\net6.0\first_last_element.exe
+C:\Users\ihrishad\leet\first_last_element\first_last_element\bin\Debug\net6.0\first_last_element.deps.json
+C:\Users\ihrishad\leet\first_last_element\first_last_element\bin\Debug\net6.0\first_last_element.runtimeconfig.json
+C:\Users\ihrishad\leet\first_last_element\first_last_element\bin\Debug\net6.0\first_last_element.dll
+C:\Users\ihrishad\leet\first_last_element\first_last_element\bin\Debug\net6.0\first_last_element.pdb
+C:\Users\ihrishad\leet\first_last_element\first_last_element\obj\Debug\net6.0\first_last_element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihrishad\leet\first_last_element\first_last_element\obj\Debug\net6.0\first_last_element.AssemblyInfoInputs.cache
+C:\Users\ihrishad\leet\first_last_element\first_last_element\obj\Debug\net6.0\first_last_element.AssemblyInfo.cs
+C:\Users\ihrishad\leet\first_last_element\first_last_element\obj\Debug\net6.0\first_last_element.csproj.CoreCompileInputs.cache
+C:\Users\ihrishad\leet\first_last_element\first_last_element\obj\Debug\net6.0\first_last_element.dll
+C:\Users\ihrishad\leet\first_last_element\first_last_element\obj\Debug\net6.0\refint\first_last_element.dll
+C:\Users\ihrishad\leet\first_last_element\first_last_element\obj\Debug\net6.0\first_last_element.pdb
+C:\Users\ihrishad\leet\first_last_element\first_last_element\obj\Debug\net6.0\first_last_element.genruntimeconfig.cache
+C:\Users\ihrishad\leet\first_last_element\first_last_element\obj\Debug\net6.0\ref\first_last_element.dll

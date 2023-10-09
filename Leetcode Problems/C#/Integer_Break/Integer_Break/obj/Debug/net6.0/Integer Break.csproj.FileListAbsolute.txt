@@ -1,0 +1,14 @@
+C:\Users\ihrishad\leet\Climbing_stairs\Climbing_stairs\bin\Debug\net6.0\Integer Break.exe
+C:\Users\ihrishad\leet\Climbing_stairs\Climbing_stairs\bin\Debug\net6.0\Integer Break.deps.json
+C:\Users\ihrishad\leet\Climbing_stairs\Climbing_stairs\bin\Debug\net6.0\Integer Break.runtimeconfig.json
+C:\Users\ihrishad\leet\Climbing_stairs\Climbing_stairs\bin\Debug\net6.0\Integer Break.dll
+C:\Users\ihrishad\leet\Climbing_stairs\Climbing_stairs\bin\Debug\net6.0\Integer Break.pdb
+C:\Users\ihrishad\leet\Climbing_stairs\Climbing_stairs\obj\Debug\net6.0\Integer Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihrishad\leet\Climbing_stairs\Climbing_stairs\obj\Debug\net6.0\Integer Break.AssemblyInfoInputs.cache
+C:\Users\ihrishad\leet\Climbing_stairs\Climbing_stairs\obj\Debug\net6.0\Integer Break.AssemblyInfo.cs
+C:\Users\ihrishad\leet\Climbing_stairs\Climbing_stairs\obj\Debug\net6.0\Integer Break.csproj.CoreCompileInputs.cache
+C:\Users\ihrishad\leet\Climbing_stairs\Climbing_stairs\obj\Debug\net6.0\Integer Break.dll
+C:\Users\ihrishad\leet\Climbing_stairs\Climbing_stairs\obj\Debug\net6.0\refint\Integer Break.dll
+C:\Users\ihrishad\leet\Climbing_stairs\Climbing_stairs\obj\Debug\net6.0\Integer Break.pdb
+C:\Users\ihrishad\leet\Climbing_stairs\Climbing_stairs\obj\Debug\net6.0\Integer Break.genruntimeconfig.cache
+C:\Users\ihrishad\leet\Climbing_stairs\Climbing_stairs\obj\Debug\net6.0\ref\Integer Break.dll
