@@ -1,2 +1,2 @@
 ***
-This repo contains the leetcode problems and its solutions I have truied in different languages.
+*This repo contains the leetcode problems and its solutions I have tried in different programming languages.
