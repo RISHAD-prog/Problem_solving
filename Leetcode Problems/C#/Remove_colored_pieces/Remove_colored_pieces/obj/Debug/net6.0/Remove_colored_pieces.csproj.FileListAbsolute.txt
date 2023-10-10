@@ -1,0 +1,14 @@
+C:\Users\ihrishad\leet\Remove_colored_pieces\Remove_colored_pieces\bin\Debug\net6.0\Remove_colored_pieces.exe
+C:\Users\ihrishad\leet\Remove_colored_pieces\Remove_colored_pieces\bin\Debug\net6.0\Remove_colored_pieces.deps.json
+C:\Users\ihrishad\leet\Remove_colored_pieces\Remove_colored_pieces\bin\Debug\net6.0\Remove_colored_pieces.runtimeconfig.json
+C:\Users\ihrishad\leet\Remove_colored_pieces\Remove_colored_pieces\bin\Debug\net6.0\Remove_colored_pieces.dll
+C:\Users\ihrishad\leet\Remove_colored_pieces\Remove_colored_pieces\bin\Debug\net6.0\Remove_colored_pieces.pdb
+C:\Users\ihrishad\leet\Remove_colored_pieces\Remove_colored_pieces\obj\Debug\net6.0\Remove_colored_pieces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihrishad\leet\Remove_colored_pieces\Remove_colored_pieces\obj\Debug\net6.0\Remove_colored_pieces.AssemblyInfoInputs.cache
+C:\Users\ihrishad\leet\Remove_colored_pieces\Remove_colored_pieces\obj\Debug\net6.0\Remove_colored_pieces.AssemblyInfo.cs
+C:\Users\ihrishad\leet\Remove_colored_pieces\Remove_colored_pieces\obj\Debug\net6.0\Remove_colored_pieces.csproj.CoreCompileInputs.cache
+C:\Users\ihrishad\leet\Remove_colored_pieces\Remove_colored_pieces\obj\Debug\net6.0\Remove_colored_pieces.dll
+C:\Users\ihrishad\leet\Remove_colored_pieces\Remove_colored_pieces\obj\Debug\net6.0\refint\Remove_colored_pieces.dll
+C:\Users\ihrishad\leet\Remove_colored_pieces\Remove_colored_pieces\obj\Debug\net6.0\Remove_colored_pieces.pdb
+C:\Users\ihrishad\leet\Remove_colored_pieces\Remove_colored_pieces\obj\Debug\net6.0\Remove_colored_pieces.genruntimeconfig.cache
+C:\Users\ihrishad\leet\Remove_colored_pieces\Remove_colored_pieces\obj\Debug\net6.0\ref\Remove_colored_pieces.dll
