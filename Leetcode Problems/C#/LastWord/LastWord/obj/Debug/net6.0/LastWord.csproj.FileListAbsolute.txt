@@ -1,0 +1,14 @@
+C:\Users\ihrishad\leet\LastWord\LastWord\bin\Debug\net6.0\LastWord.exe
+C:\Users\ihrishad\leet\LastWord\LastWord\bin\Debug\net6.0\LastWord.deps.json
+C:\Users\ihrishad\leet\LastWord\LastWord\bin\Debug\net6.0\LastWord.runtimeconfig.json
+C:\Users\ihrishad\leet\LastWord\LastWord\bin\Debug\net6.0\LastWord.dll
+C:\Users\ihrishad\leet\LastWord\LastWord\bin\Debug\net6.0\LastWord.pdb
+C:\Users\ihrishad\leet\LastWord\LastWord\obj\Debug\net6.0\LastWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihrishad\leet\LastWord\LastWord\obj\Debug\net6.0\LastWord.AssemblyInfoInputs.cache
+C:\Users\ihrishad\leet\LastWord\LastWord\obj\Debug\net6.0\LastWord.AssemblyInfo.cs
+C:\Users\ihrishad\leet\LastWord\LastWord\obj\Debug\net6.0\LastWord.csproj.CoreCompileInputs.cache
+C:\Users\ihrishad\leet\LastWord\LastWord\obj\Debug\net6.0\LastWord.dll
+C:\Users\ihrishad\leet\LastWord\LastWord\obj\Debug\net6.0\refint\LastWord.dll
+C:\Users\ihrishad\leet\LastWord\LastWord\obj\Debug\net6.0\LastWord.pdb
+C:\Users\ihrishad\leet\LastWord\LastWord\obj\Debug\net6.0\LastWord.genruntimeconfig.cache
+C:\Users\ihrishad\leet\LastWord\LastWord\obj\Debug\net6.0\ref\LastWord.dll
