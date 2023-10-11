@@ -1,0 +1,14 @@
+C:\Users\ihrishad\leet\PlusOne\PlusOne\bin\Debug\net6.0\PlusOne.exe
+C:\Users\ihrishad\leet\PlusOne\PlusOne\bin\Debug\net6.0\PlusOne.deps.json
+C:\Users\ihrishad\leet\PlusOne\PlusOne\bin\Debug\net6.0\PlusOne.runtimeconfig.json
+C:\Users\ihrishad\leet\PlusOne\PlusOne\bin\Debug\net6.0\PlusOne.dll
+C:\Users\ihrishad\leet\PlusOne\PlusOne\bin\Debug\net6.0\PlusOne.pdb
+C:\Users\ihrishad\leet\PlusOne\PlusOne\obj\Debug\net6.0\PlusOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihrishad\leet\PlusOne\PlusOne\obj\Debug\net6.0\PlusOne.AssemblyInfoInputs.cache
+C:\Users\ihrishad\leet\PlusOne\PlusOne\obj\Debug\net6.0\PlusOne.AssemblyInfo.cs
+C:\Users\ihrishad\leet\PlusOne\PlusOne\obj\Debug\net6.0\PlusOne.csproj.CoreCompileInputs.cache
+C:\Users\ihrishad\leet\PlusOne\PlusOne\obj\Debug\net6.0\PlusOne.dll
+C:\Users\ihrishad\leet\PlusOne\PlusOne\obj\Debug\net6.0\refint\PlusOne.dll
+C:\Users\ihrishad\leet\PlusOne\PlusOne\obj\Debug\net6.0\PlusOne.pdb
+C:\Users\ihrishad\leet\PlusOne\PlusOne\obj\Debug\net6.0\PlusOne.genruntimeconfig.cache
+C:\Users\ihrishad\leet\PlusOne\PlusOne\obj\Debug\net6.0\ref\PlusOne.dll
