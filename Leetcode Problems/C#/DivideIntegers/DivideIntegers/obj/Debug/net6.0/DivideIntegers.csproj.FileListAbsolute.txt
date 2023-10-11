@@ -1,0 +1,14 @@
+C:\Users\ihrishad\leet\DivideIntegers\DivideIntegers\bin\Debug\net6.0\DivideIntegers.exe
+C:\Users\ihrishad\leet\DivideIntegers\DivideIntegers\bin\Debug\net6.0\DivideIntegers.deps.json
+C:\Users\ihrishad\leet\DivideIntegers\DivideIntegers\bin\Debug\net6.0\DivideIntegers.runtimeconfig.json
+C:\Users\ihrishad\leet\DivideIntegers\DivideIntegers\bin\Debug\net6.0\DivideIntegers.dll
+C:\Users\ihrishad\leet\DivideIntegers\DivideIntegers\bin\Debug\net6.0\DivideIntegers.pdb
+C:\Users\ihrishad\leet\DivideIntegers\DivideIntegers\obj\Debug\net6.0\DivideIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihrishad\leet\DivideIntegers\DivideIntegers\obj\Debug\net6.0\DivideIntegers.AssemblyInfoInputs.cache
+C:\Users\ihrishad\leet\DivideIntegers\DivideIntegers\obj\Debug\net6.0\DivideIntegers.AssemblyInfo.cs
+C:\Users\ihrishad\leet\DivideIntegers\DivideIntegers\obj\Debug\net6.0\DivideIntegers.csproj.CoreCompileInputs.cache
+C:\Users\ihrishad\leet\DivideIntegers\DivideIntegers\obj\Debug\net6.0\DivideIntegers.dll
+C:\Users\ihrishad\leet\DivideIntegers\DivideIntegers\obj\Debug\net6.0\refint\DivideIntegers.dll
+C:\Users\ihrishad\leet\DivideIntegers\DivideIntegers\obj\Debug\net6.0\DivideIntegers.pdb
+C:\Users\ihrishad\leet\DivideIntegers\DivideIntegers\obj\Debug\net6.0\DivideIntegers.genruntimeconfig.cache
+C:\Users\ihrishad\leet\DivideIntegers\DivideIntegers\obj\Debug\net6.0\ref\DivideIntegers.dll
