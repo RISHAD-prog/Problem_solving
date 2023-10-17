@@ -1,0 +1,14 @@
+C:\Users\ihrishad\leet\Search_Insert_Position\Search_Insert_Position\obj\Debug\net6.0\Search_Insert_Position.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihrishad\leet\Search_Insert_Position\Search_Insert_Position\obj\Debug\net6.0\Search_Insert_Position.AssemblyInfoInputs.cache
+C:\Users\ihrishad\leet\Search_Insert_Position\Search_Insert_Position\obj\Debug\net6.0\Search_Insert_Position.AssemblyInfo.cs
+C:\Users\ihrishad\leet\Search_Insert_Position\Search_Insert_Position\obj\Debug\net6.0\Search_Insert_Position.csproj.CoreCompileInputs.cache
+C:\Users\ihrishad\leet\Search_Insert_Position\Search_Insert_Position\bin\Debug\net6.0\Search_Insert_Position.exe
+C:\Users\ihrishad\leet\Search_Insert_Position\Search_Insert_Position\bin\Debug\net6.0\Search_Insert_Position.deps.json
+C:\Users\ihrishad\leet\Search_Insert_Position\Search_Insert_Position\bin\Debug\net6.0\Search_Insert_Position.runtimeconfig.json
+C:\Users\ihrishad\leet\Search_Insert_Position\Search_Insert_Position\bin\Debug\net6.0\Search_Insert_Position.dll
+C:\Users\ihrishad\leet\Search_Insert_Position\Search_Insert_Position\bin\Debug\net6.0\Search_Insert_Position.pdb
+C:\Users\ihrishad\leet\Search_Insert_Position\Search_Insert_Position\obj\Debug\net6.0\Search_Insert_Position.dll
+C:\Users\ihrishad\leet\Search_Insert_Position\Search_Insert_Position\obj\Debug\net6.0\refint\Search_Insert_Position.dll
+C:\Users\ihrishad\leet\Search_Insert_Position\Search_Insert_Position\obj\Debug\net6.0\Search_Insert_Position.pdb
+C:\Users\ihrishad\leet\Search_Insert_Position\Search_Insert_Position\obj\Debug\net6.0\Search_Insert_Position.genruntimeconfig.cache
+C:\Users\ihrishad\leet\Search_Insert_Position\Search_Insert_Position\obj\Debug\net6.0\ref\Search_Insert_Position.dll
