@@ -1,0 +1,14 @@
+C:\Users\ihrishad\leet\Insertion_Linked_List\Insertion_Linked_List\obj\Debug\net6.0\Median.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihrishad\leet\Insertion_Linked_List\Insertion_Linked_List\obj\Debug\net6.0\Median.AssemblyInfoInputs.cache
+C:\Users\ihrishad\leet\Insertion_Linked_List\Insertion_Linked_List\obj\Debug\net6.0\Median.AssemblyInfo.cs
+C:\Users\ihrishad\leet\Insertion_Linked_List\Insertion_Linked_List\obj\Debug\net6.0\Median.csproj.CoreCompileInputs.cache
+C:\Users\ihrishad\leet\Insertion_Linked_List\Insertion_Linked_List\bin\Debug\net6.0\Median.exe
+C:\Users\ihrishad\leet\Insertion_Linked_List\Insertion_Linked_List\bin\Debug\net6.0\Median.deps.json
+C:\Users\ihrishad\leet\Insertion_Linked_List\Insertion_Linked_List\bin\Debug\net6.0\Median.runtimeconfig.json
+C:\Users\ihrishad\leet\Insertion_Linked_List\Insertion_Linked_List\bin\Debug\net6.0\Median.dll
+C:\Users\ihrishad\leet\Insertion_Linked_List\Insertion_Linked_List\bin\Debug\net6.0\Median.pdb
+C:\Users\ihrishad\leet\Insertion_Linked_List\Insertion_Linked_List\obj\Debug\net6.0\Median.dll
+C:\Users\ihrishad\leet\Insertion_Linked_List\Insertion_Linked_List\obj\Debug\net6.0\refint\Median.dll
+C:\Users\ihrishad\leet\Insertion_Linked_List\Insertion_Linked_List\obj\Debug\net6.0\Median.pdb
+C:\Users\ihrishad\leet\Insertion_Linked_List\Insertion_Linked_List\obj\Debug\net6.0\Median.genruntimeconfig.cache
+C:\Users\ihrishad\leet\Insertion_Linked_List\Insertion_Linked_List\obj\Debug\net6.0\ref\Median.dll
