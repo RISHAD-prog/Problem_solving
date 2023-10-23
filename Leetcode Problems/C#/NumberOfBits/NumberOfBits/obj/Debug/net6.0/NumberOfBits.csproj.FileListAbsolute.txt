@@ -1,0 +1,14 @@
+C:\Users\ihrishad\leet\NumberOfBits\NumberOfBits\bin\Debug\net6.0\NumberOfBits.exe
+C:\Users\ihrishad\leet\NumberOfBits\NumberOfBits\bin\Debug\net6.0\NumberOfBits.deps.json
+C:\Users\ihrishad\leet\NumberOfBits\NumberOfBits\bin\Debug\net6.0\NumberOfBits.runtimeconfig.json
+C:\Users\ihrishad\leet\NumberOfBits\NumberOfBits\bin\Debug\net6.0\NumberOfBits.dll
+C:\Users\ihrishad\leet\NumberOfBits\NumberOfBits\bin\Debug\net6.0\NumberOfBits.pdb
+C:\Users\ihrishad\leet\NumberOfBits\NumberOfBits\obj\Debug\net6.0\NumberOfBits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihrishad\leet\NumberOfBits\NumberOfBits\obj\Debug\net6.0\NumberOfBits.AssemblyInfoInputs.cache
+C:\Users\ihrishad\leet\NumberOfBits\NumberOfBits\obj\Debug\net6.0\NumberOfBits.AssemblyInfo.cs
+C:\Users\ihrishad\leet\NumberOfBits\NumberOfBits\obj\Debug\net6.0\NumberOfBits.csproj.CoreCompileInputs.cache
+C:\Users\ihrishad\leet\NumberOfBits\NumberOfBits\obj\Debug\net6.0\NumberOfBits.dll
+C:\Users\ihrishad\leet\NumberOfBits\NumberOfBits\obj\Debug\net6.0\refint\NumberOfBits.dll
+C:\Users\ihrishad\leet\NumberOfBits\NumberOfBits\obj\Debug\net6.0\NumberOfBits.pdb
+C:\Users\ihrishad\leet\NumberOfBits\NumberOfBits\obj\Debug\net6.0\NumberOfBits.genruntimeconfig.cache
+C:\Users\ihrishad\leet\NumberOfBits\NumberOfBits\obj\Debug\net6.0\ref\NumberOfBits.dll
