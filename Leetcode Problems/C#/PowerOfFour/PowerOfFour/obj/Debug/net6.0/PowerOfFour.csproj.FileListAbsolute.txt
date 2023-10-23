@@ -1,0 +1,14 @@
+C:\Users\ihrishad\leet\PowerOfFour\PowerOfFour\bin\Debug\net6.0\PowerOfFour.exe
+C:\Users\ihrishad\leet\PowerOfFour\PowerOfFour\bin\Debug\net6.0\PowerOfFour.deps.json
+C:\Users\ihrishad\leet\PowerOfFour\PowerOfFour\bin\Debug\net6.0\PowerOfFour.runtimeconfig.json
+C:\Users\ihrishad\leet\PowerOfFour\PowerOfFour\bin\Debug\net6.0\PowerOfFour.dll
+C:\Users\ihrishad\leet\PowerOfFour\PowerOfFour\bin\Debug\net6.0\PowerOfFour.pdb
+C:\Users\ihrishad\leet\PowerOfFour\PowerOfFour\obj\Debug\net6.0\PowerOfFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihrishad\leet\PowerOfFour\PowerOfFour\obj\Debug\net6.0\PowerOfFour.AssemblyInfoInputs.cache
+C:\Users\ihrishad\leet\PowerOfFour\PowerOfFour\obj\Debug\net6.0\PowerOfFour.AssemblyInfo.cs
+C:\Users\ihrishad\leet\PowerOfFour\PowerOfFour\obj\Debug\net6.0\PowerOfFour.csproj.CoreCompileInputs.cache
+C:\Users\ihrishad\leet\PowerOfFour\PowerOfFour\obj\Debug\net6.0\PowerOfFour.dll
+C:\Users\ihrishad\leet\PowerOfFour\PowerOfFour\obj\Debug\net6.0\refint\PowerOfFour.dll
+C:\Users\ihrishad\leet\PowerOfFour\PowerOfFour\obj\Debug\net6.0\PowerOfFour.pdb
+C:\Users\ihrishad\leet\PowerOfFour\PowerOfFour\obj\Debug\net6.0\PowerOfFour.genruntimeconfig.cache
+C:\Users\ihrishad\leet\PowerOfFour\PowerOfFour\obj\Debug\net6.0\ref\PowerOfFour.dll
