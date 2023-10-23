@@ -1,0 +1,14 @@
+C:\Users\ihrishad\leet\PowerOfThree\PowerOfThree\bin\Debug\net6.0\PowerOfThree.exe
+C:\Users\ihrishad\leet\PowerOfThree\PowerOfThree\bin\Debug\net6.0\PowerOfThree.deps.json
+C:\Users\ihrishad\leet\PowerOfThree\PowerOfThree\bin\Debug\net6.0\PowerOfThree.runtimeconfig.json
+C:\Users\ihrishad\leet\PowerOfThree\PowerOfThree\bin\Debug\net6.0\PowerOfThree.dll
+C:\Users\ihrishad\leet\PowerOfThree\PowerOfThree\bin\Debug\net6.0\PowerOfThree.pdb
+C:\Users\ihrishad\leet\PowerOfThree\PowerOfThree\obj\Debug\net6.0\PowerOfThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihrishad\leet\PowerOfThree\PowerOfThree\obj\Debug\net6.0\PowerOfThree.AssemblyInfoInputs.cache
+C:\Users\ihrishad\leet\PowerOfThree\PowerOfThree\obj\Debug\net6.0\PowerOfThree.AssemblyInfo.cs
+C:\Users\ihrishad\leet\PowerOfThree\PowerOfThree\obj\Debug\net6.0\PowerOfThree.csproj.CoreCompileInputs.cache
+C:\Users\ihrishad\leet\PowerOfThree\PowerOfThree\obj\Debug\net6.0\PowerOfThree.dll
+C:\Users\ihrishad\leet\PowerOfThree\PowerOfThree\obj\Debug\net6.0\refint\PowerOfThree.dll
+C:\Users\ihrishad\leet\PowerOfThree\PowerOfThree\obj\Debug\net6.0\PowerOfThree.pdb
+C:\Users\ihrishad\leet\PowerOfThree\PowerOfThree\obj\Debug\net6.0\PowerOfThree.genruntimeconfig.cache
+C:\Users\ihrishad\leet\PowerOfThree\PowerOfThree\obj\Debug\net6.0\ref\PowerOfThree.dll
