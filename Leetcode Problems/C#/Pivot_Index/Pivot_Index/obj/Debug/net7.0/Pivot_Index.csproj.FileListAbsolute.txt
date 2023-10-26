@@ -1,0 +1,14 @@
+C:\Users\ihrishad\leet\Pivot_Index\Pivot_Index\bin\Debug\net7.0\Pivot_Index.exe
+C:\Users\ihrishad\leet\Pivot_Index\Pivot_Index\bin\Debug\net7.0\Pivot_Index.deps.json
+C:\Users\ihrishad\leet\Pivot_Index\Pivot_Index\bin\Debug\net7.0\Pivot_Index.runtimeconfig.json
+C:\Users\ihrishad\leet\Pivot_Index\Pivot_Index\bin\Debug\net7.0\Pivot_Index.dll
+C:\Users\ihrishad\leet\Pivot_Index\Pivot_Index\bin\Debug\net7.0\Pivot_Index.pdb
+C:\Users\ihrishad\leet\Pivot_Index\Pivot_Index\obj\Debug\net7.0\Pivot_Index.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihrishad\leet\Pivot_Index\Pivot_Index\obj\Debug\net7.0\Pivot_Index.AssemblyInfoInputs.cache
+C:\Users\ihrishad\leet\Pivot_Index\Pivot_Index\obj\Debug\net7.0\Pivot_Index.AssemblyInfo.cs
+C:\Users\ihrishad\leet\Pivot_Index\Pivot_Index\obj\Debug\net7.0\Pivot_Index.csproj.CoreCompileInputs.cache
+C:\Users\ihrishad\leet\Pivot_Index\Pivot_Index\obj\Debug\net7.0\Pivot_Index.dll
+C:\Users\ihrishad\leet\Pivot_Index\Pivot_Index\obj\Debug\net7.0\refint\Pivot_Index.dll
+C:\Users\ihrishad\leet\Pivot_Index\Pivot_Index\obj\Debug\net7.0\Pivot_Index.pdb
+C:\Users\ihrishad\leet\Pivot_Index\Pivot_Index\obj\Debug\net7.0\Pivot_Index.genruntimeconfig.cache
+C:\Users\ihrishad\leet\Pivot_Index\Pivot_Index\obj\Debug\net7.0\ref\Pivot_Index.dll
