@@ -1,0 +1,14 @@
+C:\Leet\Insertion_Sort\Insertion_Sort\bin\Debug\net8.0\Insertion_Sort.exe
+C:\Leet\Insertion_Sort\Insertion_Sort\bin\Debug\net8.0\Insertion_Sort.deps.json
+C:\Leet\Insertion_Sort\Insertion_Sort\bin\Debug\net8.0\Insertion_Sort.runtimeconfig.json
+C:\Leet\Insertion_Sort\Insertion_Sort\bin\Debug\net8.0\Insertion_Sort.dll
+C:\Leet\Insertion_Sort\Insertion_Sort\bin\Debug\net8.0\Insertion_Sort.pdb
+C:\Leet\Insertion_Sort\Insertion_Sort\obj\Debug\net8.0\Insertion_Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leet\Insertion_Sort\Insertion_Sort\obj\Debug\net8.0\Insertion_Sort.AssemblyInfoInputs.cache
+C:\Leet\Insertion_Sort\Insertion_Sort\obj\Debug\net8.0\Insertion_Sort.AssemblyInfo.cs
+C:\Leet\Insertion_Sort\Insertion_Sort\obj\Debug\net8.0\Insertion_Sort.csproj.CoreCompileInputs.cache
+C:\Leet\Insertion_Sort\Insertion_Sort\obj\Debug\net8.0\Insertion_Sort.dll
+C:\Leet\Insertion_Sort\Insertion_Sort\obj\Debug\net8.0\refint\Insertion_Sort.dll
+C:\Leet\Insertion_Sort\Insertion_Sort\obj\Debug\net8.0\Insertion_Sort.pdb
+C:\Leet\Insertion_Sort\Insertion_Sort\obj\Debug\net8.0\Insertion_Sort.genruntimeconfig.cache
+C:\Leet\Insertion_Sort\Insertion_Sort\obj\Debug\net8.0\ref\Insertion_Sort.dll

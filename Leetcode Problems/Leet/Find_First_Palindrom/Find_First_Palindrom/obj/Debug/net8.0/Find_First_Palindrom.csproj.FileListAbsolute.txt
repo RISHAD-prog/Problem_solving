@@ -1,0 +1,14 @@
+C:\Leet\Find_First_Palindrom\Find_First_Palindrom\bin\Debug\net8.0\Find_First_Palindrom.exe
+C:\Leet\Find_First_Palindrom\Find_First_Palindrom\bin\Debug\net8.0\Find_First_Palindrom.deps.json
+C:\Leet\Find_First_Palindrom\Find_First_Palindrom\bin\Debug\net8.0\Find_First_Palindrom.runtimeconfig.json
+C:\Leet\Find_First_Palindrom\Find_First_Palindrom\bin\Debug\net8.0\Find_First_Palindrom.dll
+C:\Leet\Find_First_Palindrom\Find_First_Palindrom\bin\Debug\net8.0\Find_First_Palindrom.pdb
+C:\Leet\Find_First_Palindrom\Find_First_Palindrom\obj\Debug\net8.0\Find_First_Palindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leet\Find_First_Palindrom\Find_First_Palindrom\obj\Debug\net8.0\Find_First_Palindrom.AssemblyInfoInputs.cache
+C:\Leet\Find_First_Palindrom\Find_First_Palindrom\obj\Debug\net8.0\Find_First_Palindrom.AssemblyInfo.cs
+C:\Leet\Find_First_Palindrom\Find_First_Palindrom\obj\Debug\net8.0\Find_First_Palindrom.csproj.CoreCompileInputs.cache
+C:\Leet\Find_First_Palindrom\Find_First_Palindrom\obj\Debug\net8.0\Find_First_Palindrom.dll
+C:\Leet\Find_First_Palindrom\Find_First_Palindrom\obj\Debug\net8.0\refint\Find_First_Palindrom.dll
+C:\Leet\Find_First_Palindrom\Find_First_Palindrom\obj\Debug\net8.0\Find_First_Palindrom.pdb
+C:\Leet\Find_First_Palindrom\Find_First_Palindrom\obj\Debug\net8.0\Find_First_Palindrom.genruntimeconfig.cache
+C:\Leet\Find_First_Palindrom\Find_First_Palindrom\obj\Debug\net8.0\ref\Find_First_Palindrom.dll

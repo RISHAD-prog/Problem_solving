@@ -1,0 +1,14 @@
+C:\Leet\Non-repeating_character\Non-repeating_character\bin\Debug\net8.0\Non-repeating_character.exe
+C:\Leet\Non-repeating_character\Non-repeating_character\bin\Debug\net8.0\Non-repeating_character.deps.json
+C:\Leet\Non-repeating_character\Non-repeating_character\bin\Debug\net8.0\Non-repeating_character.runtimeconfig.json
+C:\Leet\Non-repeating_character\Non-repeating_character\bin\Debug\net8.0\Non-repeating_character.dll
+C:\Leet\Non-repeating_character\Non-repeating_character\bin\Debug\net8.0\Non-repeating_character.pdb
+C:\Leet\Non-repeating_character\Non-repeating_character\obj\Debug\net8.0\Non-repeating_character.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leet\Non-repeating_character\Non-repeating_character\obj\Debug\net8.0\Non-repeating_character.AssemblyInfoInputs.cache
+C:\Leet\Non-repeating_character\Non-repeating_character\obj\Debug\net8.0\Non-repeating_character.AssemblyInfo.cs
+C:\Leet\Non-repeating_character\Non-repeating_character\obj\Debug\net8.0\Non-repeating_character.csproj.CoreCompileInputs.cache
+C:\Leet\Non-repeating_character\Non-repeating_character\obj\Debug\net8.0\Non-repeating_character.dll
+C:\Leet\Non-repeating_character\Non-repeating_character\obj\Debug\net8.0\refint\Non-repeating_character.dll
+C:\Leet\Non-repeating_character\Non-repeating_character\obj\Debug\net8.0\Non-repeating_character.pdb
+C:\Leet\Non-repeating_character\Non-repeating_character\obj\Debug\net8.0\Non-repeating_character.genruntimeconfig.cache
+C:\Leet\Non-repeating_character\Non-repeating_character\obj\Debug\net8.0\ref\Non-repeating_character.dll

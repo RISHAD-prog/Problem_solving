@@ -1,0 +1,14 @@
+C:\Leet\Two_Judge\Two_Judge\bin\Debug\net8.0\Two_Judge.exe
+C:\Leet\Two_Judge\Two_Judge\bin\Debug\net8.0\Two_Judge.deps.json
+C:\Leet\Two_Judge\Two_Judge\bin\Debug\net8.0\Two_Judge.runtimeconfig.json
+C:\Leet\Two_Judge\Two_Judge\bin\Debug\net8.0\Two_Judge.dll
+C:\Leet\Two_Judge\Two_Judge\bin\Debug\net8.0\Two_Judge.pdb
+C:\Leet\Two_Judge\Two_Judge\obj\Debug\net8.0\Two_Judge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leet\Two_Judge\Two_Judge\obj\Debug\net8.0\Two_Judge.AssemblyInfoInputs.cache
+C:\Leet\Two_Judge\Two_Judge\obj\Debug\net8.0\Two_Judge.AssemblyInfo.cs
+C:\Leet\Two_Judge\Two_Judge\obj\Debug\net8.0\Two_Judge.csproj.CoreCompileInputs.cache
+C:\Leet\Two_Judge\Two_Judge\obj\Debug\net8.0\Two_Judge.dll
+C:\Leet\Two_Judge\Two_Judge\obj\Debug\net8.0\refint\Two_Judge.dll
+C:\Leet\Two_Judge\Two_Judge\obj\Debug\net8.0\Two_Judge.pdb
+C:\Leet\Two_Judge\Two_Judge\obj\Debug\net8.0\Two_Judge.genruntimeconfig.cache
+C:\Leet\Two_Judge\Two_Judge\obj\Debug\net8.0\ref\Two_Judge.dll

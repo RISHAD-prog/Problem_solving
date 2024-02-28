@@ -1,0 +1,14 @@
+C:\Leet\polygon\polygon\bin\Debug\net8.0\polygon.exe
+C:\Leet\polygon\polygon\bin\Debug\net8.0\polygon.deps.json
+C:\Leet\polygon\polygon\bin\Debug\net8.0\polygon.runtimeconfig.json
+C:\Leet\polygon\polygon\bin\Debug\net8.0\polygon.dll
+C:\Leet\polygon\polygon\bin\Debug\net8.0\polygon.pdb
+C:\Leet\polygon\polygon\obj\Debug\net8.0\polygon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leet\polygon\polygon\obj\Debug\net8.0\polygon.AssemblyInfoInputs.cache
+C:\Leet\polygon\polygon\obj\Debug\net8.0\polygon.AssemblyInfo.cs
+C:\Leet\polygon\polygon\obj\Debug\net8.0\polygon.csproj.CoreCompileInputs.cache
+C:\Leet\polygon\polygon\obj\Debug\net8.0\polygon.dll
+C:\Leet\polygon\polygon\obj\Debug\net8.0\refint\polygon.dll
+C:\Leet\polygon\polygon\obj\Debug\net8.0\polygon.pdb
+C:\Leet\polygon\polygon\obj\Debug\net8.0\polygon.genruntimeconfig.cache
+C:\Leet\polygon\polygon\obj\Debug\net8.0\ref\polygon.dll

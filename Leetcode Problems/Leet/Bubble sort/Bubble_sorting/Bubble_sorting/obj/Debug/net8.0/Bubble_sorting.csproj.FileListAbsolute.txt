@@ -1,0 +1,14 @@
+C:\Leet\Bubble sort\Bubble_sorting\Bubble_sorting\bin\Debug\net8.0\Bubble_sorting.exe
+C:\Leet\Bubble sort\Bubble_sorting\Bubble_sorting\bin\Debug\net8.0\Bubble_sorting.deps.json
+C:\Leet\Bubble sort\Bubble_sorting\Bubble_sorting\bin\Debug\net8.0\Bubble_sorting.runtimeconfig.json
+C:\Leet\Bubble sort\Bubble_sorting\Bubble_sorting\bin\Debug\net8.0\Bubble_sorting.dll
+C:\Leet\Bubble sort\Bubble_sorting\Bubble_sorting\bin\Debug\net8.0\Bubble_sorting.pdb
+C:\Leet\Bubble sort\Bubble_sorting\Bubble_sorting\obj\Debug\net8.0\Bubble_sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leet\Bubble sort\Bubble_sorting\Bubble_sorting\obj\Debug\net8.0\Bubble_sorting.AssemblyInfoInputs.cache
+C:\Leet\Bubble sort\Bubble_sorting\Bubble_sorting\obj\Debug\net8.0\Bubble_sorting.AssemblyInfo.cs
+C:\Leet\Bubble sort\Bubble_sorting\Bubble_sorting\obj\Debug\net8.0\Bubble_sorting.csproj.CoreCompileInputs.cache
+C:\Leet\Bubble sort\Bubble_sorting\Bubble_sorting\obj\Debug\net8.0\Bubble_sorting.dll
+C:\Leet\Bubble sort\Bubble_sorting\Bubble_sorting\obj\Debug\net8.0\refint\Bubble_sorting.dll
+C:\Leet\Bubble sort\Bubble_sorting\Bubble_sorting\obj\Debug\net8.0\Bubble_sorting.pdb
+C:\Leet\Bubble sort\Bubble_sorting\Bubble_sorting\obj\Debug\net8.0\Bubble_sorting.genruntimeconfig.cache
+C:\Leet\Bubble sort\Bubble_sorting\Bubble_sorting\obj\Debug\net8.0\ref\Bubble_sorting.dll

@@ -1,0 +1,14 @@
+C:\Leet\MajorityElement\MajorityElement\bin\Debug\net8.0\MajorityElement.exe
+C:\Leet\MajorityElement\MajorityElement\bin\Debug\net8.0\MajorityElement.deps.json
+C:\Leet\MajorityElement\MajorityElement\bin\Debug\net8.0\MajorityElement.runtimeconfig.json
+C:\Leet\MajorityElement\MajorityElement\bin\Debug\net8.0\MajorityElement.dll
+C:\Leet\MajorityElement\MajorityElement\bin\Debug\net8.0\MajorityElement.pdb
+C:\Leet\MajorityElement\MajorityElement\obj\Debug\net8.0\MajorityElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leet\MajorityElement\MajorityElement\obj\Debug\net8.0\MajorityElement.AssemblyInfoInputs.cache
+C:\Leet\MajorityElement\MajorityElement\obj\Debug\net8.0\MajorityElement.AssemblyInfo.cs
+C:\Leet\MajorityElement\MajorityElement\obj\Debug\net8.0\MajorityElement.csproj.CoreCompileInputs.cache
+C:\Leet\MajorityElement\MajorityElement\obj\Debug\net8.0\MajorityElement.dll
+C:\Leet\MajorityElement\MajorityElement\obj\Debug\net8.0\refint\MajorityElement.dll
+C:\Leet\MajorityElement\MajorityElement\obj\Debug\net8.0\MajorityElement.pdb
+C:\Leet\MajorityElement\MajorityElement\obj\Debug\net8.0\MajorityElement.genruntimeconfig.cache
+C:\Leet\MajorityElement\MajorityElement\obj\Debug\net8.0\ref\MajorityElement.dll

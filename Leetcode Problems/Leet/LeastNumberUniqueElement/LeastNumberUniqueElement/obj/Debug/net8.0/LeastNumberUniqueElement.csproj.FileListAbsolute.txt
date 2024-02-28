@@ -1,0 +1,14 @@
+C:\Leet\LeastNumberUniqueElement\LeastNumberUniqueElement\bin\Debug\net8.0\LeastNumberUniqueElement.exe
+C:\Leet\LeastNumberUniqueElement\LeastNumberUniqueElement\bin\Debug\net8.0\LeastNumberUniqueElement.deps.json
+C:\Leet\LeastNumberUniqueElement\LeastNumberUniqueElement\bin\Debug\net8.0\LeastNumberUniqueElement.runtimeconfig.json
+C:\Leet\LeastNumberUniqueElement\LeastNumberUniqueElement\bin\Debug\net8.0\LeastNumberUniqueElement.dll
+C:\Leet\LeastNumberUniqueElement\LeastNumberUniqueElement\bin\Debug\net8.0\LeastNumberUniqueElement.pdb
+C:\Leet\LeastNumberUniqueElement\LeastNumberUniqueElement\obj\Debug\net8.0\LeastNumberUniqueElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leet\LeastNumberUniqueElement\LeastNumberUniqueElement\obj\Debug\net8.0\LeastNumberUniqueElement.AssemblyInfoInputs.cache
+C:\Leet\LeastNumberUniqueElement\LeastNumberUniqueElement\obj\Debug\net8.0\LeastNumberUniqueElement.AssemblyInfo.cs
+C:\Leet\LeastNumberUniqueElement\LeastNumberUniqueElement\obj\Debug\net8.0\LeastNumberUniqueElement.csproj.CoreCompileInputs.cache
+C:\Leet\LeastNumberUniqueElement\LeastNumberUniqueElement\obj\Debug\net8.0\LeastNumberUniqueElement.dll
+C:\Leet\LeastNumberUniqueElement\LeastNumberUniqueElement\obj\Debug\net8.0\refint\LeastNumberUniqueElement.dll
+C:\Leet\LeastNumberUniqueElement\LeastNumberUniqueElement\obj\Debug\net8.0\LeastNumberUniqueElement.pdb
+C:\Leet\LeastNumberUniqueElement\LeastNumberUniqueElement\obj\Debug\net8.0\LeastNumberUniqueElement.genruntimeconfig.cache
+C:\Leet\LeastNumberUniqueElement\LeastNumberUniqueElement\obj\Debug\net8.0\ref\LeastNumberUniqueElement.dll

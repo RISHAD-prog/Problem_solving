@@ -1,0 +1,14 @@
+C:\Leet\Rearrangearrayelement\Rearrangearrayelement\bin\Debug\net8.0\Rearrangearrayelement.exe
+C:\Leet\Rearrangearrayelement\Rearrangearrayelement\bin\Debug\net8.0\Rearrangearrayelement.deps.json
+C:\Leet\Rearrangearrayelement\Rearrangearrayelement\bin\Debug\net8.0\Rearrangearrayelement.runtimeconfig.json
+C:\Leet\Rearrangearrayelement\Rearrangearrayelement\bin\Debug\net8.0\Rearrangearrayelement.dll
+C:\Leet\Rearrangearrayelement\Rearrangearrayelement\bin\Debug\net8.0\Rearrangearrayelement.pdb
+C:\Leet\Rearrangearrayelement\Rearrangearrayelement\obj\Debug\net8.0\Rearrangearrayelement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leet\Rearrangearrayelement\Rearrangearrayelement\obj\Debug\net8.0\Rearrangearrayelement.AssemblyInfoInputs.cache
+C:\Leet\Rearrangearrayelement\Rearrangearrayelement\obj\Debug\net8.0\Rearrangearrayelement.AssemblyInfo.cs
+C:\Leet\Rearrangearrayelement\Rearrangearrayelement\obj\Debug\net8.0\Rearrangearrayelement.csproj.CoreCompileInputs.cache
+C:\Leet\Rearrangearrayelement\Rearrangearrayelement\obj\Debug\net8.0\Rearrangearrayelement.dll
+C:\Leet\Rearrangearrayelement\Rearrangearrayelement\obj\Debug\net8.0\refint\Rearrangearrayelement.dll
+C:\Leet\Rearrangearrayelement\Rearrangearrayelement\obj\Debug\net8.0\Rearrangearrayelement.pdb
+C:\Leet\Rearrangearrayelement\Rearrangearrayelement\obj\Debug\net8.0\Rearrangearrayelement.genruntimeconfig.cache
+C:\Leet\Rearrangearrayelement\Rearrangearrayelement\obj\Debug\net8.0\ref\Rearrangearrayelement.dll

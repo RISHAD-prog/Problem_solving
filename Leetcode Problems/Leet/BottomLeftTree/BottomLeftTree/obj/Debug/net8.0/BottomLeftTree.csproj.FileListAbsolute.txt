@@ -1,0 +1,14 @@
+C:\Leet\BottomLeftTree\BottomLeftTree\obj\Debug\net8.0\BottomLeftTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leet\BottomLeftTree\BottomLeftTree\obj\Debug\net8.0\BottomLeftTree.AssemblyInfoInputs.cache
+C:\Leet\BottomLeftTree\BottomLeftTree\obj\Debug\net8.0\BottomLeftTree.AssemblyInfo.cs
+C:\Leet\BottomLeftTree\BottomLeftTree\obj\Debug\net8.0\BottomLeftTree.csproj.CoreCompileInputs.cache
+C:\Leet\BottomLeftTree\BottomLeftTree\bin\Debug\net8.0\BottomLeftTree.exe
+C:\Leet\BottomLeftTree\BottomLeftTree\bin\Debug\net8.0\BottomLeftTree.deps.json
+C:\Leet\BottomLeftTree\BottomLeftTree\bin\Debug\net8.0\BottomLeftTree.runtimeconfig.json
+C:\Leet\BottomLeftTree\BottomLeftTree\bin\Debug\net8.0\BottomLeftTree.dll
+C:\Leet\BottomLeftTree\BottomLeftTree\bin\Debug\net8.0\BottomLeftTree.pdb
+C:\Leet\BottomLeftTree\BottomLeftTree\obj\Debug\net8.0\BottomLeftTree.dll
+C:\Leet\BottomLeftTree\BottomLeftTree\obj\Debug\net8.0\refint\BottomLeftTree.dll
+C:\Leet\BottomLeftTree\BottomLeftTree\obj\Debug\net8.0\BottomLeftTree.pdb
+C:\Leet\BottomLeftTree\BottomLeftTree\obj\Debug\net8.0\BottomLeftTree.genruntimeconfig.cache
+C:\Leet\BottomLeftTree\BottomLeftTree\obj\Debug\net8.0\ref\BottomLeftTree.dll

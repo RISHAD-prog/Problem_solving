@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Two_Judge/1.0.0": {
+        "runtime": {
+          "Two_Judge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Two_Judge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Leet\Merge_Sort\Merge_Sort\bin\Debug\net8.0\Merge_Sort.exe
+C:\Leet\Merge_Sort\Merge_Sort\bin\Debug\net8.0\Merge_Sort.deps.json
+C:\Leet\Merge_Sort\Merge_Sort\bin\Debug\net8.0\Merge_Sort.runtimeconfig.json
+C:\Leet\Merge_Sort\Merge_Sort\bin\Debug\net8.0\Merge_Sort.dll
+C:\Leet\Merge_Sort\Merge_Sort\bin\Debug\net8.0\Merge_Sort.pdb
+C:\Leet\Merge_Sort\Merge_Sort\obj\Debug\net8.0\Merge_Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leet\Merge_Sort\Merge_Sort\obj\Debug\net8.0\Merge_Sort.AssemblyInfoInputs.cache
+C:\Leet\Merge_Sort\Merge_Sort\obj\Debug\net8.0\Merge_Sort.AssemblyInfo.cs
+C:\Leet\Merge_Sort\Merge_Sort\obj\Debug\net8.0\Merge_Sort.csproj.CoreCompileInputs.cache
+C:\Leet\Merge_Sort\Merge_Sort\obj\Debug\net8.0\Merge_Sort.dll
+C:\Leet\Merge_Sort\Merge_Sort\obj\Debug\net8.0\refint\Merge_Sort.dll
+C:\Leet\Merge_Sort\Merge_Sort\obj\Debug\net8.0\Merge_Sort.pdb
+C:\Leet\Merge_Sort\Merge_Sort\obj\Debug\net8.0\Merge_Sort.genruntimeconfig.cache
+C:\Leet\Merge_Sort\Merge_Sort\obj\Debug\net8.0\ref\Merge_Sort.dll

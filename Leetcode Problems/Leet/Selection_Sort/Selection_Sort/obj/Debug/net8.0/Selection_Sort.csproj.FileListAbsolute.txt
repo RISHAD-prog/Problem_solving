@@ -1,0 +1,14 @@
+C:\Leet\Selection_Sort\Selection_Sort\bin\Debug\net8.0\Selection_Sort.exe
+C:\Leet\Selection_Sort\Selection_Sort\bin\Debug\net8.0\Selection_Sort.deps.json
+C:\Leet\Selection_Sort\Selection_Sort\bin\Debug\net8.0\Selection_Sort.runtimeconfig.json
+C:\Leet\Selection_Sort\Selection_Sort\bin\Debug\net8.0\Selection_Sort.dll
+C:\Leet\Selection_Sort\Selection_Sort\bin\Debug\net8.0\Selection_Sort.pdb
+C:\Leet\Selection_Sort\Selection_Sort\obj\Debug\net8.0\Selection_Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leet\Selection_Sort\Selection_Sort\obj\Debug\net8.0\Selection_Sort.AssemblyInfoInputs.cache
+C:\Leet\Selection_Sort\Selection_Sort\obj\Debug\net8.0\Selection_Sort.AssemblyInfo.cs
+C:\Leet\Selection_Sort\Selection_Sort\obj\Debug\net8.0\Selection_Sort.csproj.CoreCompileInputs.cache
+C:\Leet\Selection_Sort\Selection_Sort\obj\Debug\net8.0\Selection_Sort.dll
+C:\Leet\Selection_Sort\Selection_Sort\obj\Debug\net8.0\refint\Selection_Sort.dll
+C:\Leet\Selection_Sort\Selection_Sort\obj\Debug\net8.0\Selection_Sort.pdb
+C:\Leet\Selection_Sort\Selection_Sort\obj\Debug\net8.0\Selection_Sort.genruntimeconfig.cache
+C:\Leet\Selection_Sort\Selection_Sort\obj\Debug\net8.0\ref\Selection_Sort.dll

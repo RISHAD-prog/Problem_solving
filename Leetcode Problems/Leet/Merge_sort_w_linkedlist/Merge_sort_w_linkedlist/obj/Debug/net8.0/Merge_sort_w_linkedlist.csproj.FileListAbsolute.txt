@@ -1,0 +1,14 @@
+C:\Leet\Merge_sort_w_linkedlist\Merge_sort_w_linkedlist\obj\Debug\net8.0\Merge_sort_w_linkedlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leet\Merge_sort_w_linkedlist\Merge_sort_w_linkedlist\obj\Debug\net8.0\Merge_sort_w_linkedlist.AssemblyInfoInputs.cache
+C:\Leet\Merge_sort_w_linkedlist\Merge_sort_w_linkedlist\obj\Debug\net8.0\Merge_sort_w_linkedlist.AssemblyInfo.cs
+C:\Leet\Merge_sort_w_linkedlist\Merge_sort_w_linkedlist\obj\Debug\net8.0\Merge_sort_w_linkedlist.csproj.CoreCompileInputs.cache
+C:\Leet\Merge_sort_w_linkedlist\Merge_sort_w_linkedlist\bin\Debug\net8.0\Merge_sort_w_linkedlist.exe
+C:\Leet\Merge_sort_w_linkedlist\Merge_sort_w_linkedlist\bin\Debug\net8.0\Merge_sort_w_linkedlist.deps.json
+C:\Leet\Merge_sort_w_linkedlist\Merge_sort_w_linkedlist\bin\Debug\net8.0\Merge_sort_w_linkedlist.runtimeconfig.json
+C:\Leet\Merge_sort_w_linkedlist\Merge_sort_w_linkedlist\bin\Debug\net8.0\Merge_sort_w_linkedlist.dll
+C:\Leet\Merge_sort_w_linkedlist\Merge_sort_w_linkedlist\bin\Debug\net8.0\Merge_sort_w_linkedlist.pdb
+C:\Leet\Merge_sort_w_linkedlist\Merge_sort_w_linkedlist\obj\Debug\net8.0\Merge_sort_w_linkedlist.dll
+C:\Leet\Merge_sort_w_linkedlist\Merge_sort_w_linkedlist\obj\Debug\net8.0\refint\Merge_sort_w_linkedlist.dll
+C:\Leet\Merge_sort_w_linkedlist\Merge_sort_w_linkedlist\obj\Debug\net8.0\Merge_sort_w_linkedlist.pdb
+C:\Leet\Merge_sort_w_linkedlist\Merge_sort_w_linkedlist\obj\Debug\net8.0\Merge_sort_w_linkedlist.genruntimeconfig.cache
+C:\Leet\Merge_sort_w_linkedlist\Merge_sort_w_linkedlist\obj\Debug\net8.0\ref\Merge_sort_w_linkedlist.dll

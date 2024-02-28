@@ -1,0 +1,14 @@
+C:\Leet\PoerofTwo\PoerofTwo\bin\Debug\net8.0\PoerofTwo.exe
+C:\Leet\PoerofTwo\PoerofTwo\bin\Debug\net8.0\PoerofTwo.deps.json
+C:\Leet\PoerofTwo\PoerofTwo\bin\Debug\net8.0\PoerofTwo.runtimeconfig.json
+C:\Leet\PoerofTwo\PoerofTwo\bin\Debug\net8.0\PoerofTwo.dll
+C:\Leet\PoerofTwo\PoerofTwo\bin\Debug\net8.0\PoerofTwo.pdb
+C:\Leet\PoerofTwo\PoerofTwo\obj\Debug\net8.0\PoerofTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leet\PoerofTwo\PoerofTwo\obj\Debug\net8.0\PoerofTwo.AssemblyInfoInputs.cache
+C:\Leet\PoerofTwo\PoerofTwo\obj\Debug\net8.0\PoerofTwo.AssemblyInfo.cs
+C:\Leet\PoerofTwo\PoerofTwo\obj\Debug\net8.0\PoerofTwo.csproj.CoreCompileInputs.cache
+C:\Leet\PoerofTwo\PoerofTwo\obj\Debug\net8.0\PoerofTwo.dll
+C:\Leet\PoerofTwo\PoerofTwo\obj\Debug\net8.0\refint\PoerofTwo.dll
+C:\Leet\PoerofTwo\PoerofTwo\obj\Debug\net8.0\PoerofTwo.pdb
+C:\Leet\PoerofTwo\PoerofTwo\obj\Debug\net8.0\PoerofTwo.genruntimeconfig.cache
+C:\Leet\PoerofTwo\PoerofTwo\obj\Debug\net8.0\ref\PoerofTwo.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Merge_sort_w_linkedlist/1.0.0": {
+        "runtime": {
+          "Merge_sort_w_linkedlist.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Merge_sort_w_linkedlist/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
