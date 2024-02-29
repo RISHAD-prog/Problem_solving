@@ -1,0 +1,14 @@
+D:\Programming practice\Leetcode Problems\C#\Monotonic_Array\bin\Debug\net6.0\Monotonic_Array.exe
+D:\Programming practice\Leetcode Problems\C#\Monotonic_Array\bin\Debug\net6.0\Monotonic_Array.deps.json
+D:\Programming practice\Leetcode Problems\C#\Monotonic_Array\bin\Debug\net6.0\Monotonic_Array.runtimeconfig.json
+D:\Programming practice\Leetcode Problems\C#\Monotonic_Array\bin\Debug\net6.0\Monotonic_Array.dll
+D:\Programming practice\Leetcode Problems\C#\Monotonic_Array\bin\Debug\net6.0\Monotonic_Array.pdb
+D:\Programming practice\Leetcode Problems\C#\Monotonic_Array\obj\Debug\net6.0\Monotonic_Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming practice\Leetcode Problems\C#\Monotonic_Array\obj\Debug\net6.0\Monotonic_Array.AssemblyInfoInputs.cache
+D:\Programming practice\Leetcode Problems\C#\Monotonic_Array\obj\Debug\net6.0\Monotonic_Array.AssemblyInfo.cs
+D:\Programming practice\Leetcode Problems\C#\Monotonic_Array\obj\Debug\net6.0\Monotonic_Array.csproj.CoreCompileInputs.cache
+D:\Programming practice\Leetcode Problems\C#\Monotonic_Array\obj\Debug\net6.0\Monotonic_Array.dll
+D:\Programming practice\Leetcode Problems\C#\Monotonic_Array\obj\Debug\net6.0\refint\Monotonic_Array.dll
+D:\Programming practice\Leetcode Problems\C#\Monotonic_Array\obj\Debug\net6.0\Monotonic_Array.pdb
+D:\Programming practice\Leetcode Problems\C#\Monotonic_Array\obj\Debug\net6.0\Monotonic_Array.genruntimeconfig.cache
+D:\Programming practice\Leetcode Problems\C#\Monotonic_Array\obj\Debug\net6.0\ref\Monotonic_Array.dll

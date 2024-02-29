@@ -1,0 +1,14 @@
+D:\Programming practice\Leetcode Problems\C#\Decode_String\bin\Debug\net6.0\Decode_String.exe
+D:\Programming practice\Leetcode Problems\C#\Decode_String\bin\Debug\net6.0\Decode_String.deps.json
+D:\Programming practice\Leetcode Problems\C#\Decode_String\bin\Debug\net6.0\Decode_String.runtimeconfig.json
+D:\Programming practice\Leetcode Problems\C#\Decode_String\bin\Debug\net6.0\Decode_String.dll
+D:\Programming practice\Leetcode Problems\C#\Decode_String\bin\Debug\net6.0\Decode_String.pdb
+D:\Programming practice\Leetcode Problems\C#\Decode_String\obj\Debug\net6.0\Decode_String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming practice\Leetcode Problems\C#\Decode_String\obj\Debug\net6.0\Decode_String.AssemblyInfoInputs.cache
+D:\Programming practice\Leetcode Problems\C#\Decode_String\obj\Debug\net6.0\Decode_String.AssemblyInfo.cs
+D:\Programming practice\Leetcode Problems\C#\Decode_String\obj\Debug\net6.0\Decode_String.csproj.CoreCompileInputs.cache
+D:\Programming practice\Leetcode Problems\C#\Decode_String\obj\Debug\net6.0\Decode_String.dll
+D:\Programming practice\Leetcode Problems\C#\Decode_String\obj\Debug\net6.0\refint\Decode_String.dll
+D:\Programming practice\Leetcode Problems\C#\Decode_String\obj\Debug\net6.0\Decode_String.pdb
+D:\Programming practice\Leetcode Problems\C#\Decode_String\obj\Debug\net6.0\Decode_String.genruntimeconfig.cache
+D:\Programming practice\Leetcode Problems\C#\Decode_String\obj\Debug\net6.0\ref\Decode_String.dll

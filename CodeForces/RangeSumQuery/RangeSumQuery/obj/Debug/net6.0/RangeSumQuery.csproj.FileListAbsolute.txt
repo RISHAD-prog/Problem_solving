@@ -1,0 +1,14 @@
+D:\Programming practice\CodeForces\RangeSumQuery\RangeSumQuery\obj\Debug\net6.0\RangeSumQuery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming practice\CodeForces\RangeSumQuery\RangeSumQuery\obj\Debug\net6.0\RangeSumQuery.AssemblyInfoInputs.cache
+D:\Programming practice\CodeForces\RangeSumQuery\RangeSumQuery\obj\Debug\net6.0\RangeSumQuery.AssemblyInfo.cs
+D:\Programming practice\CodeForces\RangeSumQuery\RangeSumQuery\obj\Debug\net6.0\RangeSumQuery.csproj.CoreCompileInputs.cache
+D:\Programming practice\CodeForces\RangeSumQuery\RangeSumQuery\bin\Debug\net6.0\RangeSumQuery.exe
+D:\Programming practice\CodeForces\RangeSumQuery\RangeSumQuery\bin\Debug\net6.0\RangeSumQuery.deps.json
+D:\Programming practice\CodeForces\RangeSumQuery\RangeSumQuery\bin\Debug\net6.0\RangeSumQuery.runtimeconfig.json
+D:\Programming practice\CodeForces\RangeSumQuery\RangeSumQuery\bin\Debug\net6.0\RangeSumQuery.dll
+D:\Programming practice\CodeForces\RangeSumQuery\RangeSumQuery\bin\Debug\net6.0\RangeSumQuery.pdb
+D:\Programming practice\CodeForces\RangeSumQuery\RangeSumQuery\obj\Debug\net6.0\RangeSumQuery.dll
+D:\Programming practice\CodeForces\RangeSumQuery\RangeSumQuery\obj\Debug\net6.0\refint\RangeSumQuery.dll
+D:\Programming practice\CodeForces\RangeSumQuery\RangeSumQuery\obj\Debug\net6.0\RangeSumQuery.pdb
+D:\Programming practice\CodeForces\RangeSumQuery\RangeSumQuery\obj\Debug\net6.0\RangeSumQuery.genruntimeconfig.cache
+D:\Programming practice\CodeForces\RangeSumQuery\RangeSumQuery\obj\Debug\net6.0\ref\RangeSumQuery.dll

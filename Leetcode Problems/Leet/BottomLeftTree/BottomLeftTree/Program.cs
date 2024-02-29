@@ -5,7 +5,7 @@
         public int val;
         public TreeNode left;
         public TreeNode right;
-        public TreeNode(int val )
+        public TreeNode(int val = 0 )
         {
             this.val = val;
             this.left = null;
@@ -13,7 +13,7 @@
         }
     }
     TreeNode root;
-    Queue<int> queue = new Queue<int>();
+   
     Solution() { root = null; }
     void AddNode(int key) { root = AddNode(root, key); }
 
@@ -36,26 +36,31 @@
     }
     public int FindBottomLeftValue(TreeNode root)
     {
-       
-        if (root != null)
+        Queue<TreeNode> queue = new Queue<TreeNode>();
+        TreeNode current = root;
+        queue.Enqueue(current);
+        while(queue.Count > 0)
         {
-            
-            FindBottomLeftValue(root.left);
-            FindBottomLeftValue(root.right);
-            queue.Enqueue(root.val);
+            current = queue.Dequeue();
+            if(current.right != null)
+            {
+                queue.Enqueue(current.right);   
+            }
+            if(current.left != null)
+            {
+                queue.Enqueue(current.left);
+            }
         }
-        return queue.Count != 0 ? queue.Peek() : 0;
+        return current.val;
     }
+    
+
     public static void Main(string[] args)
     {
         Solution s = new Solution();
-        s.AddNode(1);
-        s.AddNode(2);
-        s.AddNode(3);
-        s.AddNode(4);
-        s.AddNode(5);
-        s.AddNode(6);
-        s.AddNode(7);
+        s.AddNode(0);
+        s.AddNode(-1);
+
         var ans = s.FindBottomLeftValue(s.root);
         Console.WriteLine(ans);
     }
