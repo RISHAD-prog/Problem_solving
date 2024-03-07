@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Leet\\Problem_solving\\Leetcode Problems\\Leet\\MiddleOfLinkedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ADFE5F-65BB-40E6-AF83-A375558CC014}|MiddleOfLinkedList\\MiddleOfLinkedList.csproj|d:\\leet\\problem_solving\\leetcode problems\\leet\\middleoflinkedlist\\middleoflinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6ADFE5F-65BB-40E6-AF83-A375558CC014}|MiddleOfLinkedList\\MiddleOfLinkedList.csproj|solutionrelative:middleoflinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Leet\\Problem_solving\\Leetcode Problems\\Leet\\MiddleOfLinkedList\\MiddleOfLinkedList\\Program.cs",
+              "RelativeDocumentMoniker": "MiddleOfLinkedList\\Program.cs",
+              "ToolTip": "D:\\Leet\\Problem_solving\\Leetcode Problems\\Leet\\MiddleOfLinkedList\\MiddleOfLinkedList\\Program.cs",
+              "RelativeToolTip": "MiddleOfLinkedList\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T04:37:54.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
